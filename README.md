@@ -1,3 +1,5 @@
+# https://deepwiki.com/itswuanran/enode
+
 ## 框架简介
 
 `enode`是基于`JVM`平台，为业务实践`Domain Driven Design`思想而落地的一个应用框架，使用`CQRS`, `Event Sourcing`设计模式，让开发者可以专注于业务模型建模和业务逻辑开发
